@@ -1,8 +1,10 @@
 # PROEJECT 2 - DUNGEONS & DRAGONS CHARACTER BUILDER
 
+Deployed at: https://gracious-goldstine-fb23a8.netlify.app/
+
 This project was built for project two of General Assembly's Full-Stack Software Engineering course. 
 The project brief's focus was on utilising our knowledge of React as well as fetching and using data from selected API's. 
-This project is a paired project. 
+This project is a paired project. Made with total nerdy love by Claudia and Ava.
 
 
 ### Table of contents 
